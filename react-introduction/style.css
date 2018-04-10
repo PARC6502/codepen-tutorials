@@ -1,0 +1,16 @@
+body {
+	margin-top: 2rem;
+}
+
+#tutorial-content {
+	padding-left: 2rem;
+}
+
+.ui.container {
+	margin-bottom: 2rem;
+}
+
+li.L0, li.L1, li.L2, li.L3,
+li.L5, li.L6, li.L7, li.L8 {
+  list-style-type: decimal !important;
+}
